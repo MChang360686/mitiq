@@ -9,4 +9,5 @@ executors.md
 observables.md
 calibrators.md
 benchmarking-circuits.md
+measuring-resources-required.md
 ```
