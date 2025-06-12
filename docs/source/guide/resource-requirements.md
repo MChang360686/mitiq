@@ -76,4 +76,4 @@ for i, folded in enumerate(folded_circuits, start=1):
 
 ## Further Reading
 
-More information on usisimulating and executing our GHZ circuit with LRE can be found [here](https://mitiq.readthedocs.io/en/stable/guide/lre-1-intro.html#combine-the-results)
+More information on simulating and executing our GHZ circuit with LRE can be found [here](https://mitiq.readthedocs.io/en/stable/guide/lre-1-intro.html#combine-the-results)
