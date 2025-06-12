@@ -43,7 +43,7 @@ def count_gates(circ):
 
 ## Measuring the number of circuits required
 
-After using ```construct_circuits``` for a technique, a list of folded circuits should be returned.  The length of this list is the number of circuits required.
+After using `construct_circuits` for a technique, a list of folded circuits should be returned.  The length of this list is the number of circuits required.
 
 ```{code-cell} ipython3
 original_gate_count = count_gates(circuit)
